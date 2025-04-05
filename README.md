@@ -4,7 +4,7 @@
 ![Dashboard Preview](dashboard-preview.gif)
 
 ## Overview
-This project aims to analyze how factors like education, digital connectivity, and healthcare impact the Happiness Index. By leveraging publicly available datasets, we can gain valuable insights into the correlation between these factors and overall well-being. The dashboard presents a visual representation of the findings, helping users understand the key drivers of happiness across different countries.
+This project aims to analyze how factors like education, digital connectivity, and healthcare impact the Happiness Index. Built using Power BI, and by leveraging publicly available datasets, we can gain valuable insights into the correlation between these factors and overall well-being. The dashboard presents a visual representation of the findings, helping users understand the key drivers of happiness across different countries.
 
 ## Data Sources
 To build this analysis, data has been collected from reliable sources such as the World Bank, UNDP, and World Report Journals. The datasets used include:
@@ -30,4 +30,7 @@ To ensure that the data is presented in an engaging and understandable way, I ha
 Understanding the factors that influence happiness is crucial for policymakers, researchers, and organizations aiming to improve quality of life worldwide. By analyzing these datasets and presenting them through an interactive dashboard, this project highlights the importance of investing in education, digital connectivity, and healthcare to enhance overall well-being.
 
 If you have any feedback or suggestions, feel free to reach out! 😊
+
+[Video Link](https://www.linkedin.com/posts/saikat-bhattacharjee-data-analyst-trainee_dataanalysis-powerbi-happinessindex-activity-7312035224517754880-Qx43?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC03tr8BzJcETmwgAdzLb34j8V8TTzTcoG8)
+
 
